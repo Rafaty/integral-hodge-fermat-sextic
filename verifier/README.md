@@ -6,7 +6,8 @@ the programs that KAIROS certified (`programs/`), a small runner (`run.py`), the
 (`PROVENANCE.md`). No computation uses rounding: float64 matrix products appear only on integers whose partial sums
 stay below 2^53, and every such bound is asserted in the code.
 
-Requirements: SageMath 10 (with its numpy) and about 8 GB of memory. The times below were measured on one core.
+Requirements: SageMath 10 (with its numpy) and about 8 GB of memory. The certified runs and the reproduction below used
+SageMath 10.10 (release of 2026-09-28), Python 3.12.3 and numpy 2.4.4. The times below were measured on one core.
 
 ## What each step proves
 
