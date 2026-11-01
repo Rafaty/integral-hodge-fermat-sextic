@@ -1,0 +1,8 @@
+# Keep LF line endings on every platform: the programs in verifier/programs must stay byte-identical to the
+# certified texts whose SHA-256 is listed in verifier/PROVENANCE.md.
+* text=auto eol=lf
+*.npy binary
+*.xz binary
+*.pdf binary
+# the input files are checked against MANIFEST.txt: never convert them
+verifier/data/** binary

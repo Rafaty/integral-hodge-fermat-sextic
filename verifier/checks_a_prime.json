@@ -1,0 +1,82 @@
+[
+ {
+  "name": "psi_kronecker",
+  "output": "psi_kronecker",
+  "expected": true
+ },
+ {
+  "name": "normalizacao_gamma",
+  "output": "kappa_identity",
+  "expected": true
+ },
+ {
+  "name": "superficies_em_X",
+  "output": "identity_all",
+  "expected": true
+ },
+ {
+  "name": "coeficientes_em_Q_zeta6",
+  "output": "outside_half_z_zeta6",
+  "expected": 0
+ },
+ {
+  "name": "grau_zero_a0",
+  "output": "a0_rows_even",
+  "expected": true
+ },
+ {
+  "name": "cones_inteiros",
+  "output": "cone_div18",
+  "expected": true
+ },
+ {
+  "name": "pares_inteiros",
+  "output": "pairs_even",
+  "expected": true
+ },
+ {
+  "name": "emparelhamento_inteiro",
+  "output": "pairing_integral",
+  "expected": true
+ },
+ {
+  "name": "autointersecao_p0",
+  "output": "p0_self",
+  "expected": "125/6"
+ },
+ {
+  "name": "autointersecoes_residuos",
+  "output": "villaflor_self_ok",
+  "expected": true
+ },
+ {
+  "name": "autointersecoes_psi",
+  "output": "psi_self_ok",
+  "expected": true
+ },
+ {
+  "name": "acao_do_grupo",
+  "output": "action_exact",
+  "expected": true
+ },
+ {
+  "name": "pares_em_X",
+  "output": "n_identity_pairs",
+  "expected": 900
+ },
+ {
+  "name": "dentro_de_S",
+  "output": "inside_S",
+  "expected": true
+ },
+ {
+  "name": "posto_cheio",
+  "output": "a_full_rank",
+  "expected": true
+ },
+ {
+  "name": "indice_a0",
+  "output": "missing_A0",
+  "expected": 540
+ }
+]

@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper."
+title: "The integral Hodge conjecture for the Fermat sextic fourfold"
+authors:
+  - family-names: "Santana de Jesus"
+    given-names: "Rafael"
+    email: "rafael.santanarf18@gmail.com"
+date-released: 2026-11-01
+repository-code: "https://github.com/Rafaty/integral-hodge-fermat-sextic"
+keywords:
+  - "integral Hodge conjecture"
+  - "Fermat varieties"
+  - "algebraic cycles"
+  - "computer-assisted proof"
+license:
+  - "CC-BY-4.0"
+  - "MIT"
+preferred-citation:
+  type: article
+  title: "The integral Hodge conjecture for the Fermat sextic fourfold"
+  authors:
+    - family-names: "Santana de Jesus"
+      given-names: "Rafael"
+  year: 2026
+  url: "https://github.com/Rafaty/integral-hodge-fermat-sextic"

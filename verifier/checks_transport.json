@@ -1,0 +1,37 @@
+[
+ {
+  "name": "convencoes",
+  "output": "conventions_ok",
+  "expected": true
+ },
+ {
+  "name": "controle_nulo",
+  "output": "null_zero",
+  "expected": true
+ },
+ {
+  "name": "controle_negativo",
+  "output": "negative_leaves_S",
+  "expected": true
+ },
+ {
+  "name": "mesmo_hub",
+  "output": "hub_span_equal",
+  "expected": true
+ },
+ {
+  "name": "sete_antes",
+  "output": "seven_before_exact",
+  "expected": true
+ },
+ {
+  "name": "pertenca",
+  "output": "images_in_S",
+  "expected": true
+ },
+ {
+  "name": "psi_inteira",
+  "output": "psi_integral",
+  "expected": true
+ }
+]

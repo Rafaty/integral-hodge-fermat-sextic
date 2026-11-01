@@ -1,0 +1,5 @@
+# verifier outputs and inputs decompressed or generated on first use
+verifier/out/
+verifier/data/g13/K3.npy
+verifier/data/g13/Psi.npy
+__pycache__/

@@ -1,0 +1,32 @@
+[
+ {
+  "name": "nucleo",
+  "output": "kernel_mod_3_15",
+  "expected": true
+ },
+ {
+  "name": "posto_mod_3",
+  "output": "rank_f3",
+  "expected": 2271
+ },
+ {
+  "name": "posto_restricoes",
+  "output": "rank_A",
+  "expected": 854
+ },
+ {
+  "name": "lema_de_precisao",
+  "output": "precision_ok",
+  "expected": true
+ },
+ {
+  "name": "posto_S",
+  "output": "gram_rank",
+  "expected": 1751
+ },
+ {
+  "name": "discriminante",
+  "output": "v3_disc_S",
+  "expected": 1282
+ }
+]
